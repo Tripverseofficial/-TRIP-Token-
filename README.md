@@ -1,4 +1,15 @@
-$TRIP is a ERC20 that powering TripVerse protocol 
+$TRIP is a ERC20 that powering TripVerse protocol
+
+Hello! The $TRIP token is a type of digital currency that uses something called a smart contract to keep track of how many tokens exist and how they can be used.
+
+When someone creates a $TRIP token, they decide how many tokens there will be in total. This number doesn't change, but the value of each token can go up or down depending on how many people want to buy or sell them.
+
+The smart contract for $TRIP has a special feature called "rebasing". This means that the total number of tokens in circulation can increase or decrease based on the current value of each token.
+
+For example, if the value of each $TRIP token goes up a lot, the smart contract might create some more tokens to keep the value stable. On the other hand, if the value goes down a lot, the smart contract might reduce the total number of tokens in circulation to help bring the value back up.
+
+This is different from some other types of digital currencies where the total number of tokens never changes. With $TRIP, the number of tokens can change to help keep the value stable.
+
 The TRIP token is designed to carry out this process rebase mechanic automatically adjust its supply in response to changes in its price.
 
 The mechanic works by monitoring the $TRIP token’s price against a target price, which is defined as the price at which the token’s supply is to remain stable. If the current price of $TRIP is above the target price, the contract will trigger a positive rebase, increasing the supply of TRIP tokens held by each address proportionally. Conversely, if the current price is below the target price, the contract will trigger a negative rebase, reducing the supply of TRIP tokens held by each address proportionally.
